@@ -1,0 +1,7 @@
+{
+  "name": "Atlas Automatizaciones",
+  "description": "Soluciones de automatización e Inteligencia Artificial de alto nivel para empresas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
